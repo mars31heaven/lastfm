@@ -27,8 +27,8 @@ It is read-only. It talks to the Last.fm API and never changes an account.
 ## Install
 
 ```bash
-chmod +x lastfmscraper.py
-cp lastfmscraper.py ~/.local/bin/lastfm
+chmod +x lastfm.py
+cp lastfm.py ~/.local/bin/lastfm
 ```
 
 Make sure `~/.local/bin` is in your `PATH`. Then run `lastfm -h`.
