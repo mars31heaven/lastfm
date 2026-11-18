@@ -183,7 +183,3 @@ shows the first N rows.
 | `year must be between 2002 and <year>`    | Use a valid calendar year.                                    |
 | `-t, -b and -r need a period`             | Add a period flag such as `-m`.                               |
 | Warning: config readable by others        | Run `chmod 600 ~/.config/lastfm/config`.                      |
-
-## License
-
-Add your license here.
